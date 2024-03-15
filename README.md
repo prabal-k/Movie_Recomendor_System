@@ -7,4 +7,4 @@ Used cosine similarity to calculated the similarity score between Movies.
 
 
 
-![dashboard_image](https://github.com/prabal-k/Power-Bi-Road-Accident-Analysis-/assets/91243958/cc6f39ff-2b3e-4146-a987-8550225175dc)
+![Snapshot-1](https://github.com/prabal-k/Movie_Recomendor_System/assets/91243958/a0275fcd-8d23-4d8e-a962-8de5379bd1f0)
