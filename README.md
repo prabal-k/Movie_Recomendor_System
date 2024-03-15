@@ -7,4 +7,4 @@ Used cosine similarity to calculated the similarity score between Movies.
 
 
 
-![Snapshot-1](https://github.com/prabal-k/Movie_Recomendor_System/assets/91243958/a0275fcd-8d23-4d8e-a962-8de5379bd1f0)
+![Snapshot-1](https://github.com/prabal-k/Movie_Recomendor_System/assets/91243958/429a018e-9efa-4a0b-a0c1-fff7737db507)
